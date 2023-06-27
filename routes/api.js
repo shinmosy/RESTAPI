@@ -8,8 +8,8 @@ var zahirr = db.get("zahirr");
 	console.log('')  
 }
  
-var creator = "Rey"
-var neoxr = "yntkts"
+var creator = "Mosy"
+var neoxr = "Iyadeh"
 var zeks = "administrator"
 var zeks2 = "apivinz"
 var secure = require('ssl-express-www');
@@ -227,7 +227,7 @@ Akhir Pesan Error
 
 //router.use(favicon(__path + "/views/favicon.ico"));
 
-const listkey = ["apirey", "APIKEY", "ditofficial"];
+const listkey = ["njbot", "RYUJIN", "mosy"];
 
 router.post("/apikey", async (req, res, next) => {
   const key = req.query.key;
